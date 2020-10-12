@@ -12,6 +12,10 @@ The agent played 1 Million games (episodes) to obtain the following Value functi
 Visualized as a heatmap:
 <img src="https://github.com/tybens/rl-easy21/blob/main/figures/mc_vstar_heatmap.png" width="1000">
 
+The optimal policy chosen by selecting the actions with the highest value:
+<img src="https://github.com/tybens/rl-easy21/blob/main/figures/mc_optimal_q.png" width="1000">
+
+
 ## TD Learning
 
 `python3 temporalDifference.py`
