@@ -1,6 +1,6 @@
 # Reinforcement Learning on Easy21
 
-Reinforcement Learning is applied to Easy21. This is an assignment as part of David Silver's Reinforcement Learning Course at UCL. The assignment can be found [here](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf).
+Reinforcement Learning is applied to Easy21. This is an assignment as part of David Silver's Reinforcement Learning Course at UCL. The assignment can be found [here](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver).
 
 ## Monte-Carlo Control
 
