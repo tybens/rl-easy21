@@ -33,7 +33,7 @@ The optimal policy as derived from 10,000 episodes of TD(lambda = 0.3):
 
 `python3 lfa.py`
 
-The matrix lookup-table approach of the previous models are replaced by coarse coding function approximator. This reduces the 420 state-action combinations to 36.
+The matrix lookup-table approach of the previous models are replaced by coarse coding function approximator. This reduces the 420 state-action combinations down to 36.
 
 <img src="https://github.com/tybens/rl-easy21/blob/main/figures/lfa_episodes.png" width="1000">
   
